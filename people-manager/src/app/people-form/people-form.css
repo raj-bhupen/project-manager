@@ -1,0 +1,15 @@
+.form-container{
+    margin:auto 0;
+  }
+.action-container{
+    float: right;
+    clear:both;
+}
+.action-container > button{
+    margin:5px;
+}
+.same-comm-address{
+    display: flex;
+    font-size: 10px;
+    width: 40%;
+}

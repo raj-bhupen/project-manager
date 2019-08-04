@@ -1,0 +1,13 @@
+table{
+    width:80%;
+    margin:auto;
+}
+th{
+    background-color: beige;
+}
+.list-container{
+    width:100%;
+}
+tr{
+    text-align: center;
+}

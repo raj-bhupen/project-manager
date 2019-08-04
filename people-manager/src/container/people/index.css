@@ -1,0 +1,13 @@
+.header-container {
+  text-align: center;
+  font-size: 22px;
+  width:100vw;
+  line-height: 10vh;
+  background-color: darkgray;
+}
+.header {        
+  vertical-align: center;
+}
+.people-container{
+  margin:20px;
+}
